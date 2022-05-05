@@ -1,5 +1,5 @@
 // This is Header component /Navigation Component
-import logo from '../../assets/logo_2.png';
+import logo from '../../assets/myLogo.svg';
 import styled from 'styled-components';
 import { useState, useRef, useEffect } from 'react';
 import gsap from 'gsap';

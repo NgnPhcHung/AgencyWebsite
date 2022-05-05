@@ -90,7 +90,7 @@ const OBJ = styled.div`
     align-items: center;
 
     @media only Screen and (max-width: 40em) {
-        opacity: 0.5;
+        display: none;
     }
 `;
 
